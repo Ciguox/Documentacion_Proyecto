@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://&lt;usuario&gt;.github.io/&lt;repositorio&gt;/</loc>
+         <lastmod>2025-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://&lt;usuario&gt;.github.io/&lt;repositorio&gt;/Guia_de_Instalacion/</loc>
          <lastmod>2025-02-12</lastmod>
          <changefreq>daily</changefreq>

@@ -3,4 +3,10 @@ site_url: https://<usuario>.github.io/<repositorio>/
 docs_dir: 'docs_src'
 site_dir: 'docs'
 nav:
-  - Inicio: README.md
+  - Guia de instalacion: Guia_de_Instalacion.md
+  - Guia de referencia: Guia_de_Referencia.md
+  - Manual de usuario: Manual_de_Usuario.md
+# Establecemos un Theme para poder navegar la pagina comodamente
+theme: readthedocs
+plugins: 
+  - search

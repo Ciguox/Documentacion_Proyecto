@@ -1,0 +1,1 @@
+This is a simple project to test the construction of documentatition using mkdocs.
