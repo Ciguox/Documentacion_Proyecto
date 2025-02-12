@@ -8,5 +8,5 @@ nav:
   - Manual de usuario: Manual_de_Usuario.md
 # Establecemos un Theme para poder navegar la pagina comodamente
 theme: readthedocs
-plugins: 
+plugins:
   - search
