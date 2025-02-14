@@ -6,7 +6,14 @@ nav:
   - Guia de instalacion: Guia_de_Instalacion.md
   - Guia de referencia: Guia_de_Referencia.md
   - Manual de usuario: Manual_de_Usuario.md
+  - Descargas:
+      - Guia de referencia: Guia_de_Referencia/Guia_de_Referencia.pdf
+      - Guia de instalaion: Guia_de_Instalacion/Guia_de_Instalacion.pdf
+      - Manual de usuario: Manual_de_Usuario/Manual_de_Usuario.pdf
 # Establecemos un Theme para poder navegar la pagina comodamente
 theme: readthedocs
 plugins:
   - search
+  - pdf-export:
+      enable_id_env: ENABLE_PDF_EXPORT
+      media_type: print
